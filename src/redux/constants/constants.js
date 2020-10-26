@@ -1,0 +1,1 @@
+export let LIST_MOVIE_BY_PAGE = 'LIST_MOVIE_BY_PAGE';   

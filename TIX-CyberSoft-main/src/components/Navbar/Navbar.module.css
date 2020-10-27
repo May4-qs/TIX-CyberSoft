@@ -1,0 +1,24 @@
+:root{
+    --white:rgba(255, 255, 255);
+}
+.header{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: var(--white);
+}
+.text{
+    font-weight: 600;
+    position: absolute;
+    left: 300px;  
+}
+.button{
+    position: absolute;
+    top: 18px;
+    right: 100px;
+}
+.logo {
+    height: 60px;   
+    position: relative;
+}
+
